@@ -1,27 +1,9 @@
-Design Patterns - Projeto 4 - Populate
+﻿Projeto Testes Automatizados - Fase 1 - Cobertura das principais classes
 
-Nessa fase você deve criar um formulário de cadastro de produto contendo os seguintes campos:
+Baseado no que foi passado até o momento, pegue suas principais classes de seu projeto: Formulário Dinâmico, realizado no capítulo anterior, e crie os testes unitários das principais classes que não possuem nenhuma dependência.
 
-Nome: Texto
-Valor: Texto
-Descrição: Texto
-Categoria: Select, com as opções vindo dinâmicamente de um banco de dados sqlite.
-
-Você deverá ser capaz de popular esse formulário com dados vindo de um array, no momento da exibição do formulário.
-
-Algo como: $form->popular($dados);
-
-Ao popular o formulário você deve exibir mensagens de erro para as seguintes situações:
-
-- Caso o nome do produto não esteja no array ou esteja vazio;
-- Caso o valor do produto não seja numérico
-- Caso a descrição contenha +200 caracteres.
-
-No seu formulário também deve ser permitido exibir os erros ao topo do formulário em forma de lista (ul) OU cada erro anexado ao campo que ele se refere OU mostrar os erros em forma de lista ao rodapé do formulário.
-
-Estas mensagens de erro devem ser exibidas assim que o formulário é populado.
-
-Recomendacoes:
-
-- Procure usar todos os patterns que foram ensinados até agora para que seu código fique mais organizado
-- Faça métodos e classes pequenos
+Observações:
+- Não se esqueça de validar os tipos das classes no caso de as mesmas implementarem alguma interface.
+- Todos os testes obrigatoriamente devem passar
+- Valide e trate os dados de entrada nos métodos
+- Utilize o composer
