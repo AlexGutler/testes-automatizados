@@ -12,6 +12,11 @@ class Label implements ElementInterface
 
     public function __construct($for, $caption)
     {
+        if (!is_string($for) || !is_string($caption))
+        {
+            throw new \InvalidArgumentException("Os parametros devem ser strings!");
+        }
+
         $this->for = $for;
         $this->caption = $caption;
     }

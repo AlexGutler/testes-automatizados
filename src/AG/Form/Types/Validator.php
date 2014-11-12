@@ -17,7 +17,6 @@ class Validator
     {
         $elements = $this->form->getElements();
         $erros = array();
-        $i = 0;
 
         foreach ($elements as $element)
         {

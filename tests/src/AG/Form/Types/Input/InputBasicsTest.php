@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Alex
- * Date: 12/11/14
- * Time: 20:46
- */
 
 namespace AG\Form\Types\Input;
 

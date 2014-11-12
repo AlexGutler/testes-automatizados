@@ -47,6 +47,11 @@ class Form implements FormInterface
 
     public function populate($dados)
     {
+        if (!is_array($dados))
+        {
+            throw new \InvalidArgumentException("O parametro deve ser um array!");
+        }
+
         $i = 0;
         foreach ($this->elements as $value)
         {
