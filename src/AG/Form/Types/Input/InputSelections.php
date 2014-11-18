@@ -14,11 +14,14 @@ class InputSelections extends InputAbstract
 
     function __construct($type, $name, $value, $msg)
     {
+<<<<<<< HEAD
         if (!is_string($type) || !is_string($name) || !is_string($value) || !is_string($msg))
         {
             throw new \InvalidArgumentException("Os parametros contem erros!");
         }
 
+=======
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
         $this->type = $type;
         $this->name = $name;
         $this->value = $value;

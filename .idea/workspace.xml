@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9162b5c-fd9f-482d-9d6a-01be1d349511" name="Default" comment="">
+<<<<<<< HEAD
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/src/AG/Form/Types/Fieldset/FieldsetTest.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/src/AG/Form/Types/Input/InputActionsTest.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/src/AG/Form/Types/Input/InputSelectionsTest.php" />
@@ -15,6 +16,15 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AG/Form/Types/Select/Select.php" afterPath="$PROJECT_DIR$/src/AG/Form/Types/Select/Select.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AG/Form/Types/TextArea/TextArea.php" afterPath="$PROJECT_DIR$/src/AG/Form/Types/TextArea/TextArea.php" />
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/src/AG/Form/Types/FormTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/src/AG/Form/Utils/LabelTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AG/Form/Types/Form.php" afterPath="$PROJECT_DIR$/src/AG/Form/Types/Form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/src/AG/Form/Types/Input/InputBasicsTest.php" afterPath="$PROJECT_DIR$/tests/src/AG/Form/Types/Input/InputBasicsTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AG/Form/Utils/Label.php" afterPath="$PROJECT_DIR$/src/AG/Form/Utils/Label.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AG/Form/Types/Validator.php" afterPath="$PROJECT_DIR$/src/AG/Form/Types/Validator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
     </list>
     <ignored path="projeto-dp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,6 +50,7 @@
       <file leaf-file-name="Form.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Form.php">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state line="7" column="32" selection-start="180" selection-end="180" vertical-scroll-proportion="5.230769" vertical-offset="255" max-vertical-offset="1326">
               <folding>
                 <element signature="e#33#73#0" expanded="true" />
@@ -52,51 +63,89 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state line="10" column="0" selection-start="925" selection-end="925" vertical-scroll-proportion="0.310219" vertical-offset="0" max-vertical-offset="548">
+=======
+            <state line="28" column="23" selection-start="666" selection-end="675" vertical-scroll-proportion="-12.423077" vertical-offset="102" max-vertical-offset="1275">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Fieldset.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Fieldset/Fieldset.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="26" column="5" selection-start="452" selection-end="452" vertical-scroll-proportion="-14.846154" vertical-offset="39" max-vertical-offset="935">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+=======
       <file leaf-file-name="FormTest.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Types/FormTest.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="8" column="51" selection-start="146" selection-end="146" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="510">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file leaf-file-name="FormTest.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Types/FormTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="51" selection-start="146" selection-end="146" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="510">
+=======
+      <file leaf-file-name="Label.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AG/Form/Utils/Label.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="0" selection-start="376" selection-end="376" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="561">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
       <file leaf-file-name="FieldsetTest.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Types/Fieldset/FieldsetTest.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="23" column="0" selection-start="443" selection-end="443" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="459">
+=======
+      <file leaf-file-name="LabelTest.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Utils/LabelTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="51" selection-start="147" selection-end="147" vertical-scroll-proportion="0.24199288" vertical-offset="0" max-vertical-offset="562">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Legend.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AG/Form/Utils/Legend.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="18" column="51" selection-start="280" selection-end="316" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="442">
+=======
+      <file leaf-file-name="InputBasic.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Input/InputBasic.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="5" selection-start="681" selection-end="681" vertical-scroll-proportion="-20.26923" vertical-offset="0" max-vertical-offset="1224">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="LegendTest.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Utils/LegendTest.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="17" column="64" selection-start="335" selection-end="335" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="357">
+=======
+      <file leaf-file-name="InputBasicsTest.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Types/Input/InputBasicsTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="12" selection-start="484" selection-end="499" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="425">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
               <folding />
             </state>
           </provider>
@@ -129,8 +178,17 @@
         <option value="$PROJECT_DIR$/src/AG/Form/Types/InputActions.php" />
         <option value="$PROJECT_DIR$/src/AG/Form/Types/InputAbstract.php" />
         <option value="$PROJECT_DIR$/src/AG/Form/Types/Input/InputAbstract.php" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/AG/Form/Interfaces/ElementInterface.php" />
         <option value="$PROJECT_DIR$/src/AG/Form/Types/Button/Button.php" />
+=======
+        <option value="$PROJECT_DIR$/src/AG/Form/Types/Input/InputActions.php" />
+        <option value="$PROJECT_DIR$/src/AG/Form/Types/Input/InputSelections.php" />
+        <option value="$PROJECT_DIR$/src/AG/Form/Interfaces/ElementInterface.php" />
+        <option value="$PROJECT_DIR$/src/AG/Form/Types/TextArea/TextArea.php" />
+        <option value="$PROJECT_DIR$/src/AG/Form/Types/Button/Button.php" />
+        <option value="$PROJECT_DIR$/src/AG/Form/Types/Select/Select.php" />
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
         <option value="$PROJECT_DIR$/src/AG/Form/Interfaces/FormInterface.php" />
         <option value="$PROJECT_DIR$/index-antigo.php" />
         <option value="$PROJECT_DIR$/src/AG/Form/Utils/Legend.php" />
@@ -140,10 +198,15 @@
         <option value="$PROJECT_DIR$/fixtures/conexaoDB.php" />
         <option value="$PROJECT_DIR$/fixtures/retornaCategorias.php" />
         <option value="$PROJECT_DIR$/fixtures/config.php" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/src/AG/Form/Types/Input/InputBasic.php" />
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
         <option value="$PROJECT_DIR$/tests/src/AG/Form/Types/Input/InputBasicsTest.php" />
         <option value="$PROJECT_DIR$/src/AG/Form/Types/Form.php" />
         <option value="$PROJECT_DIR$/tests/src/AG/Form/Types/FormTest.php" />
         <option value="$PROJECT_DIR$/src/AG/Form/Types/Validator.php" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/AG/Form/Utils/Label.php" />
         <option value="$PROJECT_DIR$/tests/src/AG/Form/Utils/LabelTest.php" />
         <option value="$PROJECT_DIR$/src/AG/Form/Types/Input/InputBasic.php" />
@@ -158,6 +221,10 @@
         <option value="$PROJECT_DIR$/tests/src/AG/Form/Utils/LegendTest.php" />
         <option value="$PROJECT_DIR$/tests/src/AG/Form/Types/Fieldset/FieldsetTest.php" />
         <option value="$PROJECT_DIR$/README.md" />
+=======
+        <option value="$PROJECT_DIR$/tests/src/AG/Form/Utils/LabelTest.php" />
+        <option value="$PROJECT_DIR$/src/AG/Form/Utils/Label.php" />
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
       </list>
     </option>
   </component>
@@ -316,6 +383,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="TextArea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -384,6 +452,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+=======
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
               <option name="myItemId" value="Input" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -398,6 +468,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="tests" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -432,6 +503,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+=======
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -729,7 +802,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2723824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26858878" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -737,11 +814,19 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -761,9 +846,90 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/fixtures/fixtures.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="17" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="459" />
+=======
+    <entry file="file://$PROJECT_DIR$/fixtures/retornaCategorias.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="31" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="544">
+          <folding>
+            <marker date="1415310470944" expanded="true" signature="-1:-1" placeholder="select * fro..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="22" selection-start="687" selection-end="687" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixtures/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="42" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixtures/conexaoDB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="5" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixtures/fixtures.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="27" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="459">
+          <folding>
+            <marker date="1415309347668" expanded="true" signature="-1:-1" placeholder="DROP TABLE I..." />
+            <marker date="1415309347668" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixtures/retornaCategorias.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="31" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="544">
+          <folding>
+            <marker date="1415310470944" expanded="true" signature="-1:-1" placeholder="select * fro..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="0" selection-start="1558" selection-end="1558" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixtures/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="2" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixtures/conexaoDB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="1" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixtures/fixtures.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="17" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="459">
+          <folding>
+            <marker date="1415309347668" expanded="true" signature="-1:-1" placeholder="DROP TABLE I..." />
+            <marker date="1415309347668" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
@@ -857,6 +1023,7 @@
         <state line="11" column="34" selection-start="301" selection-end="301" vertical-scroll-proportion="0.30427048" vertical-offset="16" max-vertical-offset="578" />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/menu.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.17495711" vertical-offset="0" max-vertical-offset="583" />
@@ -916,40 +1083,88 @@
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="103" selection-start="370" selection-end="425" vertical-scroll-proportion="0.65384614" vertical-offset="272" max-vertical-offset="1037">
+=======
+    <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Fieldset/Fieldset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="21" selection-start="289" selection-end="289" vertical-scroll-proportion="-5.8846154" vertical-offset="102" max-vertical-offset="952" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AG/Form/Utils/Legend.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="32" selection-start="222" selection-end="222" vertical-scroll-proportion="0.38568935" vertical-offset="0" max-vertical-offset="573" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.17495711" vertical-offset="0" max-vertical-offset="583" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/phpunit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="588">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Types/Input/InputBasicsTest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="5" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="425">
+=======
+    <entry file="file://$PROJECT_DIR$/tests/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="588">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Button/Button.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="5.0384617" vertical-offset="131" max-vertical-offset="680">
+=======
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="588">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Input/InputBasic.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="5" selection-start="681" selection-end="681" vertical-scroll-proportion="5.1153846" vertical-offset="660" max-vertical-offset="1207">
+=======
+    <entry file="file://$PROJECT_DIR$/fixtures/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="2" selection-start="91" selection-end="91" vertical-scroll-proportion="0.18149467" vertical-offset="0" max-vertical-offset="562">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/AG/Form/Utils/ErrorList.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="59" selection-start="418" selection-end="418" vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="629">
           <folding>
             <marker date="1415813276000" expanded="false" signature="-1:-1" placeholder="..." />
+=======
+    <entry file="file://$PROJECT_DIR$/fixtures/fixtures.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="27" selection-start="187" selection-end="187" vertical-scroll-proportion="0.27224198" vertical-offset="0" max-vertical-offset="562">
+          <folding>
+            <marker date="1415309347668" expanded="true" signature="-1:-1" placeholder="DROP TABLE I..." />
+            <marker date="1415309347668" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Utils/LabelTest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="36" selection-start="260" selection-end="260" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="476">
@@ -967,10 +1182,25 @@
     <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Types/TextArea/TextAreaText.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="24" selection-start="246" selection-end="246" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="323">
+=======
+    <entry file="file://$PROJECT_DIR$/fixtures/retornaCategorias.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="31" selection-start="139" selection-end="139" vertical-scroll-proportion="0.24199288" vertical-offset="0" max-vertical-offset="562">
+          <folding>
+            <marker date="1415310470944" expanded="true" signature="-1:-1" placeholder="select * fro..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixtures/conexaoDB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="5" selection-start="497" selection-end="497" vertical-scroll-proportion="0.6049822" vertical-offset="0" max-vertical-offset="562">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/TextArea/TextArea.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="0" selection-start="448" selection-end="448" vertical-scroll-proportion="-2.6153846" vertical-offset="255" max-vertical-offset="850">
@@ -981,87 +1211,168 @@
     <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Validator.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="25" selection-start="305" selection-end="305" vertical-scroll-proportion="-6.1923075" vertical-offset="128" max-vertical-offset="714">
+=======
+    <entry file="file://$PROJECT_DIR$/src/AG/Form/Utils/ErrorList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+          <folding>
+            <marker date="1415231742216" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Input/InputBasic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="5" selection-start="681" selection-end="681" vertical-scroll-proportion="-20.26923" vertical-offset="0" max-vertical-offset="1224">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Types/Select/SelectTest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="41" selection-start="335" selection-end="335" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="357">
+=======
+    <entry file="file://$PROJECT_DIR$/src/AG/Form/Interfaces/ElementInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="238">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Select/Select.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="76" selection-start="454" selection-end="454" vertical-scroll-proportion="-6.423077" vertical-offset="71" max-vertical-offset="935">
+=======
+    <entry file="file://$PROJECT_DIR$/src/AG/Form/Interfaces/FormInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="29" selection-start="215" selection-end="215" vertical-scroll-proportion="0.27224198" vertical-offset="0" max-vertical-offset="562">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Input/InputActions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="76" selection-start="442" selection-end="442" vertical-scroll-proportion="-6.5384617" vertical-offset="102" max-vertical-offset="663">
+=======
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="103" selection-start="370" selection-end="425" vertical-scroll-proportion="0.65384614" vertical-offset="272" max-vertical-offset="1037">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Types/Input/InputActionsTest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="51" selection-start="239" selection-end="239" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="357">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Input/InputSelections.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="76" selection-start="442" selection-end="442" vertical-scroll-proportion="-5.8846154" vertical-offset="153" max-vertical-offset="816">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Types/Input/InputSelectionsTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="51" selection-start="242" selection-end="242" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="357">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AG/Form/Utils/Legend.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="51" selection-start="280" selection-end="316" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="442">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Types/Fieldset/FieldsetTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="443" selection-end="443" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="459">
-          <folding />
-        </state>
-      </provider>
-    </entry>
+=======
     <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Types/FormTest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="51" selection-start="146" selection-end="146" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="510">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Input/InputSelections.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="76" selection-start="442" selection-end="442" vertical-scroll-proportion="-5.8846154" vertical-offset="153" max-vertical-offset="816">
+=======
+    <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Validator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="25" selection-start="305" selection-end="305" vertical-scroll-proportion="-5.8846154" vertical-offset="136" max-vertical-offset="714">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Types/Input/InputSelectionsTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="51" selection-start="242" selection-end="242" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="357">
+=======
+    <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Types/Input/InputBasicsTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="12" selection-start="484" selection-end="499" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="425">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/AG/Form/Utils/Legend.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="51" selection-start="280" selection-end="316" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="442">
+=======
+    <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/TextArea/TextArea.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Types/Fieldset/FieldsetTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="443" selection-end="443" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="459">
+=======
+    <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Select/Select.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.13123845" vertical-offset="71" max-vertical-offset="850">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Types/FormTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="51" selection-start="146" selection-end="146" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="510">
+=======
+    <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Button/Button.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="5.0384617" vertical-offset="131" max-vertical-offset="680">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Fieldset/Fieldset.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="5" selection-start="452" selection-end="452" vertical-scroll-proportion="-14.846154" vertical-offset="39" max-vertical-offset="935">
+=======
+    <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="23" selection-start="666" selection-end="675" vertical-scroll-proportion="-12.423077" vertical-offset="102" max-vertical-offset="1275">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Utils/LegendTest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="64" selection-start="335" selection-end="335" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="357">
+=======
+    <entry file="file://$PROJECT_DIR$/src/AG/Form/Utils/Label.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="376" selection-end="376" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="561">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Form.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="32" selection-start="180" selection-end="180" vertical-scroll-proportion="5.230769" vertical-offset="255" max-vertical-offset="1326">
@@ -1074,6 +1385,11 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="0" selection-start="925" selection-end="925" vertical-scroll-proportion="0.310219" vertical-offset="0" max-vertical-offset="548">
+=======
+    <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Utils/LabelTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="51" selection-start="147" selection-end="147" vertical-scroll-proportion="0.24199288" vertical-offset="0" max-vertical-offset="562">
+>>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
           <folding />
         </state>
       </provider>
