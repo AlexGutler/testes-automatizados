@@ -11,6 +11,11 @@ class Select implements ElementInterface
 
     public function __construct($name, $options = array(), Label $label = null)
     {
+        if (!is_string($name) || !is_array($options))
+        {
+            throw new \InvalidArgumentException("Os parametros contem erros!");
+        }
+
         $this->name = $name;
         $this->options = $options;
 

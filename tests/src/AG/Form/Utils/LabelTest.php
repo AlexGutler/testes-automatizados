@@ -10,7 +10,7 @@ class LabelTest extends \PHPUnit_Framework_TestCase
      */
     public function testVerificaSeOsParametrosEstaoCorretos()
     {
-        new \AG\Form\Utils\Label(1,10);
+        new \AG\Form\Utils\Label(1, 10);
     }
 
     public function testVerificaSeEstaRenderizando()

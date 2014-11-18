@@ -10,8 +10,13 @@ class InputActions extends InputAbstract
 {
     protected $value;
 
-    function __construct($type, $name, $value )
+    function __construct($type, $name, $value)
     {
+        if (!is_string($type) || !is_string($name) || !is_string($value))
+        {
+            throw new \InvalidArgumentException("Os parametros contem erros!");
+        }
+
         $this->type = $type;
         $this->name = $name;
         $this->value = $value;

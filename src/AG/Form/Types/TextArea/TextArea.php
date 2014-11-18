@@ -12,8 +12,13 @@ class TextArea implements ElementInterface
     protected $name;
     protected $element;
 
-    public function __construct($name,$rows,Label $label = null)
+    public function __construct($name, $rows, Label $label = null)
     {
+        if (!is_string($name) || !is_numeric($rows))
+        {
+            throw new \InvalidArgumentException("Os Parametros Contém Erros!");
+        }
+
         $this->name = $name;
         $this->rows = $rows;
 
