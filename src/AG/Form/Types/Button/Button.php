@@ -16,6 +16,11 @@ class Button implements ElementInterface
 
     public function __construct($value, $type, $name, $msg)
     {
+        if (!is_string($value) || !is_string($type) || !is_string($name) || !is_string($msg))
+        {
+            throw new \InvalidArgumentException("Os parametros contem erros!");
+        }
+
         $this->type = $type;
         $this->value = $value;
         $this->name = $name;

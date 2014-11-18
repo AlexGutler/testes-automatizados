@@ -31,10 +31,6 @@ class InputBasic extends InputAbstract
 
     function __construct($type, $name, Label $label = null, $value = null)
     {
-<<<<<<< HEAD
-=======
-        //or !is_object($label)
->>>>>>> 2cbcb95e3fc3317ce92d3bbf0e8ebf2d82bda745
         if (!is_string($type) || !is_string($name))
         {
             throw new \InvalidArgumentException("Os valores devem ser strings!");
