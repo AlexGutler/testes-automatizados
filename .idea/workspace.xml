@@ -17,6 +17,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AG/Form/Types/Select/Select.php" afterPath="$PROJECT_DIR$/src/AG/Form/Types/Select/Select.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AG/Form/Types/TextArea/TextArea.php" afterPath="$PROJECT_DIR$/src/AG/Form/Types/TextArea/TextArea.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="projeto-dp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,91 +40,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Fieldset.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Fieldset/Fieldset.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="5" selection-start="452" selection-end="452" vertical-scroll-proportion="-12.884615" vertical-offset="90" max-vertical-offset="935">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TextArea.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/TextArea/TextArea.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="448" selection-end="448" vertical-scroll-proportion="-7.8461537" vertical-offset="119" max-vertical-offset="850">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Button.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Button/Button.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="76" selection-start="506" selection-end="506" vertical-scroll-proportion="-8.153846" vertical-offset="128" max-vertical-offset="765">
+            <state line="12" column="20" selection-start="214" selection-end="214" vertical-scroll-proportion="-1.9615384" vertical-offset="153" max-vertical-offset="765">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LabelTest.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Utils/LabelTest.php">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="66" selection-start="491" selection-end="491" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="476">
+            <state line="23" column="82" selection-start="912" selection-end="912" vertical-scroll-proportion="0.4857143" vertical-offset="119" max-vertical-offset="1037">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SelectTest.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Types/Select/SelectTest.php">
+      <file leaf-file-name="InputActions.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Input/InputActions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="41" selection-start="335" selection-end="335" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="357">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Select.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Select/Select.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="69" selection-start="1035" selection-end="1035" vertical-scroll-proportion="0.4638219" vertical-offset="396" max-vertical-offset="935">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InputBasic.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Input/InputBasic.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="30" selection-start="1010" selection-end="1010" vertical-scroll-proportion="-10.461538" vertical-offset="493" max-vertical-offset="1207">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InputSelections.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Input/InputSelections.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="457" selection-end="457" vertical-scroll-proportion="-11.115385" vertical-offset="68" max-vertical-offset="833">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Legend.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AG/Form/Utils/Legend.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="51" selection-start="280" selection-end="316" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="442">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ButtonTest.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Types/Button/ButtonTest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="5" selection-start="345" selection-end="345" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="357">
+            <state line="20" column="0" selection-start="498" selection-end="498" vertical-scroll-proportion="-11.576923" vertical-offset="39" max-vertical-offset="697">
               <folding />
             </state>
           </provider>
@@ -161,7 +99,6 @@
         <option value="$PROJECT_DIR$/index-antigo.php" />
         <option value="$PROJECT_DIR$/src/AG/Form/Utils/Legend.php" />
         <option value="$PROJECT_DIR$/src/AG/Form/Types/Fieldset/Fieldset.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/fixtures/fixtures.php" />
         <option value="$PROJECT_DIR$/fixtures/conexaoDB.php" />
         <option value="$PROJECT_DIR$/fixtures/retornaCategorias.php" />
@@ -178,7 +115,6 @@
         <option value="$PROJECT_DIR$/tests/src/AG/Form/Utils/LegendTest.php" />
         <option value="$PROJECT_DIR$/tests/src/AG/Form/Types/Fieldset/FieldsetTest.php" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/AG/Form/Types/Input/InputActions.php" />
         <option value="$PROJECT_DIR$/src/AG/Form/Types/Input/InputBasic.php" />
         <option value="$PROJECT_DIR$/src/AG/Form/Types/Input/InputSelections.php" />
         <option value="$PROJECT_DIR$/src/AG/Form/Types/TextArea/TextArea.php" />
@@ -186,6 +122,8 @@
         <option value="$PROJECT_DIR$/tests/src/AG/Form/Types/Button/ButtonTest.php" />
         <option value="$PROJECT_DIR$/tests/src/AG/Form/Utils/LabelTest.php" />
         <option value="$PROJECT_DIR$/src/AG/Form/Types/Select/Select.php" />
+        <option value="$PROJECT_DIR$/src/AG/Form/Types/Input/InputActions.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -970,13 +908,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="103" selection-start="370" selection-end="425" vertical-scroll-proportion="0.65384614" vertical-offset="272" max-vertical-offset="1037">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Types/Input/InputBasicsTest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="5" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="425">
@@ -1049,13 +980,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Input/InputActions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="5" selection-start="463" selection-end="463" vertical-scroll-proportion="-9.115385" vertical-offset="103" max-vertical-offset="629">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Input/InputBasic.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="46" column="30" selection-start="1010" selection-end="1010" vertical-scroll-proportion="-10.461538" vertical-offset="493" max-vertical-offset="1207">
@@ -1107,13 +1031,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Button/Button.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="76" selection-start="506" selection-end="506" vertical-scroll-proportion="-8.153846" vertical-offset="128" max-vertical-offset="765">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/src/AG/Form/Types/Button/ButtonTest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="5" selection-start="345" selection-end="345" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="357">
@@ -1137,7 +1054,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Select/Select.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="69" selection-start="1035" selection-end="1035" vertical-scroll-proportion="0.4638219" vertical-offset="396" max-vertical-offset="935">
+        <state line="39" column="69" selection-start="1035" selection-end="1035" vertical-scroll-proportion="-9.615385" vertical-offset="396" max-vertical-offset="935">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Button/Button.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="20" selection-start="214" selection-end="214" vertical-scroll-proportion="-1.9615384" vertical-offset="153" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AG/Form/Types/Input/InputActions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="498" selection-end="498" vertical-scroll-proportion="-11.576923" vertical-offset="39" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="82" selection-start="912" selection-end="912" vertical-scroll-proportion="0.4857143" vertical-offset="119" max-vertical-offset="1037">
           <folding />
         </state>
       </provider>

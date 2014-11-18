@@ -13,15 +13,15 @@
 <?php
     $form = new \AG\Form\Types\Form('#','POST');
 
-    $nome = new \AG\Form\Types\Input\InputBasic('text','nome', new \AG\Form\Utils\Label('nome','Nome:'));
-    $valor = new \AG\Form\Types\Input\InputBasic('text','valor', new \AG\Form\Utils\Label('valor','Valor:'));
-    $descricao = new \AG\Form\Types\Input\InputBasic('text','descricao', new \AG\Form\Utils\Label('descricao','Descrição:'));
+    $nome = new \AG\Form\Types\Input\InputBasic('text', 'nome', new \AG\Form\Utils\Label('nome','Nome:'));
+    $valor = new \AG\Form\Types\Input\InputBasic('text', 'valor', new \AG\Form\Utils\Label('valor','Valor:'));
+    $descricao = new \AG\Form\Types\Input\InputBasic('text', 'descricao', new \AG\Form\Utils\Label('descricao','Descrição:'));
 
     $options = retornaCategorias();
 
-    $select = new \AG\Form\Types\Select\Select('categorias',$options, new \AG\Form\Utils\Label('categoria','Categoria:'));
+    $select = new \AG\Form\Types\Select\Select('categorias', $options, new \AG\Form\Utils\Label('categoria','Categoria:'));
 
-    $submit = new \AG\Form\Types\Input\InputActions('submit','enviar',"Enviar");
+    $submit = new \AG\Form\Types\Input\InputActions('submit', 'enviar', "Enviar");
 
     $form->addElement($nome);
     $form->addElement($valor);

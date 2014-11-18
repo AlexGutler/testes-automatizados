@@ -9,7 +9,8 @@ use AG\Form\Types\Input\InputAbstract;
 class InputActions extends InputAbstract
 {
     protected $value;
-
+    protected $type;
+    protected $name;
 
     function __construct($type, $name, $value)
     {
@@ -18,6 +19,9 @@ class InputActions extends InputAbstract
             throw new \InvalidArgumentException("Os parametros contem erros!");
         }
 
+        $this->type = $type;
+        $this->name = $name;
+        $this->value = $value;
     }
 
     public function render()
