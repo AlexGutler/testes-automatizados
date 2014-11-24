@@ -45,7 +45,7 @@
         $erros = $validator->validator();
 
         $list = new \AG\Form\Utils\ErrorList($erros);
-        echo $list->render();
+        $list->render();
     }
 ?>
 

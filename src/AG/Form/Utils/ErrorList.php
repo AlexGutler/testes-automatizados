@@ -10,6 +10,9 @@ class ErrorList
 
     function __construct($items = array())
     {
+        if (!is_array($items)){
+            throw new \InvalidArgumentException("O parametro deve ser um array!");
+        }
         $this->items = $items;
     }
 
@@ -27,6 +30,8 @@ class ErrorList
         $this->list .= '</ul>';
 
         $this->list .= '</div>';
-        return $this->list;
+        echo $this->list;
+
+        return true;
     }
 } 

@@ -5,20 +5,37 @@ namespace AG\Form\Types;
 
 class FormTest extends \PHPUnit_Framework_TestCase
 {
+    private $form;
+
+    public function setUp()
+    {
+        $this->form = new \AG\Form\Types\Form("#","POST");
+    }
+
+    public function tearDown()
+    {
+        unset($this->form);
+    }
+
+    /**
+     * @expectedException \InvalidArgumentException
+     */
+    public function testVerificaSeConsegueRenderizar()
+    {
+        $this->form->render();
+    }
+
     /**
      * @expectedException \InvalidArgumentException
      */
     public function testVerificaSeConseguePopularSeNaoEhArray()
     {
-        $form = new \AG\Form\Types\Form("#","POST");
-
-        $form->populate("Este eh um teste!");
+        $this->form->populate("Este eh um teste!");
     }
 
     public function testVerificaSeConsegueFecharTag()
     {
-        $form = new \AG\Form\Types\Form("#","POST");
-        $result = $form->closeTag();
+        $result = $this->form->closeTag();
 
         $this->assertEquals('</form>', $result);
     }

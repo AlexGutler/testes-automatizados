@@ -36,6 +36,10 @@ class Form implements FormInterface
 
     public function render()
     {
+        if (empty($this->elements)) {
+            throw new \InvalidArgumentException("Nenhum elemento encontrado para ser renderizado!");
+        }
+
         echo $this->openTag();
 
         foreach ($this->elements as $value){

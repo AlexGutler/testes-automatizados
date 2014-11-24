@@ -10,6 +10,9 @@ class Validator
 {
     function __construct(Form $form)
     {
+        if(!$form instanceof Form){
+            throw new \InvalidArgumentException("É parametro deve ser um form!");
+        }
         $this->form = $form;
     }
 
