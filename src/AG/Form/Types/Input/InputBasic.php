@@ -13,11 +13,6 @@ class InputBasic extends InputAbstract
 {
     protected $type, $name, $value;
 
-    public function getName()
-    {
-        return $this->name;
-    }
-
     public function setValue($value)
     {
         $this->value = $value;
