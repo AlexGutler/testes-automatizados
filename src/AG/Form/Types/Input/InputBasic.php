@@ -59,4 +59,14 @@ class InputBasic extends InputAbstract
 
         return $this->element;
     }
+
+    /**
+     * @return string
+     */
+    public function getName()
+    {
+        return $this->name;
+    }
+
+
 }

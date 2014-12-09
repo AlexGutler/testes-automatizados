@@ -9,9 +9,9 @@
     <meta name="author" content="">
     <meta name="keywords" content="">
 
-    <title>Projeto Design Patterns</title>
+    <title>Testes Automatizados</title>
 
-    <link rel="icon" type="image/x-icon" href="img/favicon.ico" >
+
     <!-- Bootstrap Styles and Resets -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">

@@ -6,7 +6,8 @@
         "psr-0": {"AG":"src/"}
     },
     "require":{
-        "phpunit/phpunit":"3.7.*"
+        "phpunit/phpunit": "3.7.*",
+        "phpunit/phpunit-selenium": ">=1.2"
     }
 
 }
